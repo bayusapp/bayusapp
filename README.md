@@ -76,3 +76,12 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&" alt="bayusapp" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+<p align="center">
+
+<a href="https://github.com/bayusapp?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="bayusapp github-readme-stats"/></a>
+<a href="https://github.com/bayusapp?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="bayusapp github-readme-stats"/></a>
+<a href="https://github.com/bayusapp?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
+<a href="https://github.com/bayusapp?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
+
+</p>
