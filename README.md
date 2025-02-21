@@ -1,16 +1,22 @@
-<h2 align="left">Hi 👋! My name is Bayu and I'm a junior web developer, from Indonesian.</h2>
+<h1 align="center">Hi 👋, I'm Bayu S. Ajie P. Putra</h1>
+<h3 align="center">A junior developer from Indonesian.</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bayusapp&label=Profile%20views&color=0e75b6&style=flat" alt="bayusapp" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayusapp" alt="bayusapp" /></a> </p>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayusapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-###
+- 🔭 I’m currently working on [SIM Laboratorium](https://sim.labfit.id/)
 
+- 🌱 I’m currently learning **Solidity, Flutter**
+
+- 📝 I regularly write articles on [https://www.bayusapp.com/](https://www.bayusapp.com/)
+
+###
+<h3 align="left">Languages and Tools:</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
@@ -53,6 +59,7 @@
 
 ###
 
+<h3 align="left">Connect with me:</h3>
 <div align="left">
   <a href="https://id.linkedin.com/in/bayusapp" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -64,6 +71,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/bayusapp/bayusapp/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bayusapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&" alt="bayusapp" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
