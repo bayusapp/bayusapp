@@ -3,17 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bayusapp&label=Profile%20views&color=0e75b6&style=flat" alt="bayusapp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bayusapp" alt="bayusapp" /></a> </p>
-
 ###
 
 <img align="right" height="150" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"  />
 
-- 🔭 I’m currently working on [SIM Laboratorium](https://sim.labfit.id/)
-
-- 🌱 I’m currently learning **Solidity, Flutter**
-
-- 📝 I regularly write articles on [https://www.bayusapp.com/](https://www.bayusapp.com/)
+🔭 I’m currently working on [SIM Laboratorium](https://sim.labfit.id)<br>
+🤝 I'm looking for help with SIM Laboratorium Mobile Version<br>
+🌱 I’m currently learning **Solidity, Flutter**<br>
+📝 I regularly write articles on [Bayu SAPP](https://www.bayusapp.com/)<br>
+💬 Ask me about Web Development
 
 ###
 <h3 align="left">Languages and Tools:</h3>
@@ -70,18 +68,18 @@
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bayusapp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&" alt="bayusapp" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
+<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-
-<a href="https://github.com/bayusapp?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="bayusapp github-readme-stats"/></a>
-<a href="https://github.com/bayusapp?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="bayusapp github-readme-stats"/></a>
-<a href="https://github.com/bayusapp?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
-<a href="https://github.com/bayusapp?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
-
+  <a href="https://github.com/bayusapp?tab=repositories#gh-dark-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=gotham&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="bayusapp github-readme-stats"/></a>
+  <a href="https://github.com/bayusapp?tab=repositories#gh-light-mode-only"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=bayusapp&theme=default&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="48%" alt="bayusapp github-readme-stats"/></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=gotham&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bayusapp&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="bayusapp github-readme-streak-stats"/></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&langs_count=6&theme=gotham&hide_border=true" alt="bayusapp most-used-languages"></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=bayusapp&locale=en&hide_title=false&layout=compact&langs_count=6&theme=default&hide_border=true" alt="bayusapp most-used-languages"></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-dark-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=bayusapp&theme=gotham&no-frame=true&column=3&row=2" alt="bayusapp trophy"></a>
+  <a href="https://github.com/bayusapp?tab=stars#gh-light-mode-only"><img src="https://github-profile-trophy.vercel.app/?username=bayusapp&theme=default&no-frame=true&column=3&row=2" alt="bayusapp trophy"></a><br>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Abayusapp+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayusapp&theme=gotham&utcOffset=7"  width="31%" alt="bayusapp productive-time"/></a>
+  <a href="https://github.com/pulls?q=is%3Apr+author%3Abayusapp+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bayusapp&theme=default&utcOffset=7"  width="31%" alt="bayusapp productive-time"/></a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Abayusapp+archived%3Afalse+is%3Aclosed#gh-dark-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayusapp&theme=gothan&hide_border=true"  width="64%" alt="bayusapp profile-details"/></a>
+  <a href="https://github.com/issues?q=is%3Aissue+author%3Abayusapp+archived%3Afalse+is%3Aclosed#gh-light-mode-only"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bayusapp&theme=default&hide_border=true"  width="64%" alt="bayusapp profile-details"/></a>
 </p>
